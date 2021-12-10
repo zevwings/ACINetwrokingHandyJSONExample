@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-ACINetworkingHandyJSONExample/Pods-ACINetworkingHandyJSONExample-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ACINetworking.swift/ACINetworking.framework
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/AnyCodable/AnyCodable.framework
+${BUILT_PRODUCTS_DIR}/HandyJSON/HandyJSON.framework
+${BUILT_PRODUCTS_DIR}/RxSwift/RxSwift.framework

@@ -1,0 +1,6 @@
+framework module Pods_ACINetworkingHandyJSONExample {
+  umbrella header "Pods-ACINetworkingHandyJSONExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
