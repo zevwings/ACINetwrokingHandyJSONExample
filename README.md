@@ -8,8 +8,8 @@
 
 1. 拓展目录
 
-[Extensions](https://github.com/zevwings/ACINetwrokingHandyJSONExample/tree/master/ACINetwrokingHandyJSONExample/Extensions)
+[Extensions](https://github.com/zevwings/ACINetwrokingHandyJSONExample/tree/master/ACINetworkingHandyJSONExample/Extensions)
 
 2. 示例目录
 
-[Example](https://github.com/zevwings/ACINetwrokingHandyJSONExample/tree/master/ACINetwrokingHandyJSONExample/Example)
+[Example](https://github.com/zevwings/ACINetwrokingHandyJSONExample/tree/master/ACINetworkingHandyJSONExample/Example)
