@@ -15,6 +15,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        ///
         ExampleService.shared.request(api: .userInfo) { result in
             do {
                 let object = try result.get().mapObject(ExampleModel.self)
@@ -24,7 +25,7 @@ class ViewController: UIViewController {
             }
         }
 
-        
+        /// RxSwift
         ExampleService.shared.rx.request(.userInfo)
             .filterSuccessfulStatusCodes()
             .mapObject(ExampleModel.self) // HandyJSON map
